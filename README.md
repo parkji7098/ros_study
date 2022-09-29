@@ -27,7 +27,12 @@ my first ros study
     - msg_publisher, msg_subscriber, py_msg_pub.py, py_msg_sub.py 노드 생성
     - 빌드
     - 실행
-
+- [service_tutorial](./service_tutorial)
+    -service_tutorial 패키지 형성
+    -srv 디렉토리에 AddTwoInts.srv 생성
+    -my_server, my_client, py_server.py, py_client.py 노드 생성
+    - 빌드
+    - 실행
 ## ROS 명령어
 ### roscore
 - ROS Master를 실행한다.
