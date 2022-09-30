@@ -1,6 +1,8 @@
 # ros_study
 my first ros study
 
+https://github.com/juchajam/ros_study
+
 ### 2022년 9월 27일 시작
 - topic_tutorial 패키지 생성
 - my_publisher, my_subscriber 노드 생성
