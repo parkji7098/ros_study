@@ -45,6 +45,12 @@ https://github.com/juchajam/ros_study
 
 ### [roslaunch](#roslaunch)
 
+### 2022년 10월 7일
+### [yh_turtle](./yh_turtle)
+- yh_turtle_circle.py, turtle_circle.cpp 노드 생성
+- 빌드
+- 실행
+
 ## ROS 명령어
 ### roscore
 - ROS Master를 실행한다.
